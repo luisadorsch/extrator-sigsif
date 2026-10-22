@@ -1,3 +1,16 @@
+## Autoria e direitos autorais
+
+**Autora e desenvolvedora:** Luísa Dorsch Ferreira  
+**Ano de desenvolvimento:** 2026
+
+Este projeto consiste em uma ferramenta desenvolvida em Python para automatizar a extração, organização e exportação para Excel de informações disponibilizadas pelo SIGSIF.
+
+A implementação e a documentação original desenvolvidas pela autora são protegidas pela legislação aplicável de direitos autorais, observados os direitos de terceiros sobre bibliotecas, serviços e demais componentes utilizados.
+
+A disponibilização deste repositório para consulta pública não implica, por si só, concessão de licença geral para reutilização, modificação ou redistribuição do código.
+
+**Aplicativo:** https://habilitados-pais.streamlit.app/
+
 # Extrator SIGSIF — Streamlit
 
 ## O que faz
