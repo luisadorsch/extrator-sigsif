@@ -1,4 +1,3 @@
-# Dependências do Chromium/Playwright no Linux
 libnss3
 libnspr4
 libatk1.0-0
