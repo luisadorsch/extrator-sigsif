@@ -335,7 +335,7 @@ if st.button("🔎 Extrair dados e gerar Excel", type="primary", use_container_w
                     df, caminho_excel, nome_excel = gerar_excel(caminho_pdf, pais_atual)
 
                     if df.empty:
-                        st.warning("O PDF foi processado, mas nenhum registro foi extraído. Confira o relatório e as regras de extração.")
+                        st.warning("O PDF foi processado, mas não há registro de informações.")
                     else:
                         st.success(f"Extração concluída: {len(df):,} registros encontrados.")
                         st.dataframe(df.head(30), use_container_width=True)
