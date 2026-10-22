@@ -1,3 +1,8 @@
+# Copyright (c) 2026 Luísa Dorsch Ferreira
+# Projeto: Extrator de dados do SIGSIF
+# Finalidade: extração, organização e exportação de informações para Excel.
+# Aplicação: https://habilitados-pais.streamlit.app/
+
 import asyncio
 import os
 import re
